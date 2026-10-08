@@ -1,0 +1,11 @@
+fastapi
+uvicorn
+langgraph
+langchain-core
+pydantic
+python-multipart
+# Optional for real generation later:
+# openai
+# anthropic
+# moviepy
+# ffmpeg-python

@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.env
+studio_vault/
+.venv/
+venv/
+*.mp4
+*.png
+*.jpg
+.DS_Store
