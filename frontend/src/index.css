@@ -1,0 +1,15 @@
+body {
+  margin: 0;
+  background: #0F1015;
+  color: #e5e7eb;
+  font-family: system-ui, -apple-system, sans-serif;
+}
+
+.react-flow__node {
+  font-size: 13px;
+  border-radius: 6px;
+}
+
+.react-flow__attribution {
+  display: none;
+}
